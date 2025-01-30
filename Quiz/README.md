@@ -24,15 +24,14 @@ A number within a specific range will be taken from the user, and an encryption 
 
 ---
 
-
 **Example Map 1:**  
-![Example Map 1](harita1.png)
+<img src="harita1.png" alt="Example Map 1" width="300">
 
 **Example Map 2:**  
-![Example Map 2](harita2.png)
+<img src="harita2.png" alt="Example Map 2" width="300">
 
 **Example Map 3:**  
-![Example Map 3](harita3.png)
+<img src="harita3.png" alt="Example Map 3" width="300">
 
 ---
 
@@ -63,10 +62,10 @@ Kullanıcıdan belirli bir sayı aralığında bir sayı alınıp, **kullanıcı
 ---
 
 **Örnek Harita 1:**  
-![Örnek Harita 1](harita1.png)
+<img src="harita1.png" alt="Örnek Harita 1" width="300">
 
 **Örnek Harita 2:**  
-![Örnek Harita 2](harita2.png)
+<img src="harita2.png" alt="Örnek Harita 2" width="300">
 
 **Örnek Harita 3:**  
-![Örnek Harita 3](harita3.png)
+<img src="harita3.png" alt="Örnek Harita 3" width="300">
